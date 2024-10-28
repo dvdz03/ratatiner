@@ -1,5 +1,7 @@
 ###Funciones en R
 
+##Modificar cosas y clonar cosas para poder ver las modificaciones en GitHub
+
 ##Definir funciones aritméticas básicas 
 
 ##Suma 
